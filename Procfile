@@ -1,3 +1,3 @@
-worker: python mozee_botata11.py
+worker: python mozee_botara11.py
 
 web: python -m http.server $PORT
